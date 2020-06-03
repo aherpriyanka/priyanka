@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.post {
+  width: 50%;
+  margin: 0 auto;
+}
+p {
+  font-size: 14px;
+}
+.footer
+{
+  text-align: center;
+  font-size: 12px;
+}
+
+h5{
+  color: red;
+}
+
+.siteName {
+  margin-left: 20px;
+}
